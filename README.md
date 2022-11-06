@@ -20,6 +20,7 @@
 - 🚀 I’m currently learning and Practise Web Devlopment with MERN Stack;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: vivektripathi8005@gmail.com;
+- Connect with me: https://www.linkedin.com/in/vivektripathi9005/
 
 </br>
 

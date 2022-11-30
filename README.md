@@ -1,4 +1,4 @@
-### Hi there, I'm Vivek tripathi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Vivek tripathi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
 <a href="mailto:vivektripathi8005@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
@@ -8,7 +8,7 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vivektripathi-9005)
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vivektripathi-9005)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektripathi-9005" alt="vivektripathi-9005" /></a> </p>
 
@@ -24,12 +24,14 @@
 
 </br>
 
+<!--
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+START_SECTION:waka
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
+END_SECTION:waka
+-->
 
 
 📈**My GitHub Stats:**

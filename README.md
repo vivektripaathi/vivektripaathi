@@ -34,7 +34,7 @@ END_SECTION:waka
 -->
 
 
-📈**My GitHub Stats:**
+## 📈**My GitHub Stats:**
 
 <p>
   <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivektripathi-9005&theme=react-dark" />

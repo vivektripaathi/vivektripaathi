@@ -1,18 +1,24 @@
-# Hi there, I'm Vivek tripathi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<p align="center">
-<a href="mailto:vivektripathi8005@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/wampire-vivek-stylish/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://github.com/vivektripathi-9005"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-</p>
-
-
-
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vivektripathi-9005)
-
+### <samp>&gt; Hi there, I'm <a href="https://vivektripathi-9005.github.io/home/" target="_blank">Vivek Tripathi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivektripathi8005@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wampire-vivek-stylish/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vivektripathi-9005.github.io/home/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektripathi-9005" alt="vivektripathi-9005" /></a> </p>
 
+<br />
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vivektripathi-9005)
+A 3rd year student persuing Diploma in Information Technology from Hewett Polytechnic Lucknow.<br />
+Currently I am enhancing below jotted skills :- <br />
+🌟 C++ <br />
+🌟 MERN <br />
+🌟 Algorithm <br />
+🌟 Data Structure <br />
+🌟 Functional Programming <br />
+🌟 Competitive Programming <br />
+
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="300" />
+ 
+ <br />
  
 **Talking about Personal Stuffs:**
 
@@ -24,17 +30,19 @@
 
 </br>
 
-<!--
+
 📊 **This Week I Spent My Time On:**
-START_SECTION:waka
+<!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+Python   0 secs          █████████████████████████   100.00 %
 ```
-END_SECTION:waka
--->
 
+<!--END_SECTION:waka-->
 
-## 📈**My GitHub Stats:**
+<br />
+
+### 📈**My GitHub Stats:**
 
 <p>
   <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivektripathi-9005&theme=react-dark" />
@@ -43,17 +51,3 @@ END_SECTION:waka
 | ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivektripathi-9005&show_icons=true&theme=tokyonight) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripathi-9005&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivektripathi-9005&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vivektripathi-9005&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-<!--
-**vivektripathi-9005/vivektripathi-9005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -16,7 +16,7 @@ Currently I am enhancing below jotted skills :- <br />
 🌟 Functional Programming <br />
 🌟 Competitive Programming <br />
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="300" />
+<img align="right" alt="GIF" src="https://github.com/vivektripathi-9005/vivektripathi-9005/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
  
  <br />
  
@@ -35,7 +35,7 @@ Currently I am enhancing below jotted skills :- <br />
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          █████████████████████████   100.00 %
+Python   20 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

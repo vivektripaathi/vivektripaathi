@@ -11,6 +11,7 @@ A 3rd year student persuing Diploma in Information Technology from Hewett Polyte
 Currently I am enhancing below jotted skills :- <br />
 🌟 C++ <br />
 🌟 MERN <br />
+🌟 Python <br />
 🌟 Algorithm <br />
 🌟 Data Structure <br />
 🌟 Functional Programming <br />

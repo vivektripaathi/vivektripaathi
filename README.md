@@ -9,7 +9,6 @@
 <br />
 
 ### Glad to see you here! &nbsp;
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-tripathi-9005" alt="vivek-tripathi-trophies"/></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/vivek-tripathi-9005/vivek-tripathi-9005/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
  
@@ -52,6 +51,7 @@
 
 
 ### 📈**My GitHub Stats:**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-tripathi-9005" alt="vivek-tripathi-trophies"/></a> </p>
 <!--
 <p> <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivek-tripathi-9005&theme=react-dark" /></p>
 -->

@@ -1,12 +1,16 @@
 # <samp> &gt; Hi there, I'm <a href="https://vivek-tripathi-9005.github.io/home/" target="_blank">Vivek Tripathi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
+<h3 align="center">Full Stack Developer | Quick Learner</h3>
+
 <p align="center">
 <code><a href="mailto:vivektripathi8005@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="Mail"></a></code> &nbsp; &nbsp;
 <code><a href="https://www.linkedin.com/in/vivek-tripathi1" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a></code> &nbsp; &nbsp;
 <code><a href="https://vivek-tripathi-9005.github.io/home/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="Website"></a></code> &nbsp; &nbsp;
 </p>
 
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+scalable+microservices;cccrafting-intuitive+user+interfaces;Always+learning+and+growing&center=true&width=380&height=45">
+</p>
 
 ### Glad to see you here! &nbsp;
 

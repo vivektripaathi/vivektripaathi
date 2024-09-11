@@ -55,19 +55,19 @@
 
 
 ### 📈**My GitHub Stats:**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-tripathi-9005" alt="vivek-tripathi-trophies"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektripaathi" alt="vivek-tripathi-trophies"/></a> </p>
 <!--
-<p> <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivek-tripathi-9005&theme=react-dark" /></p>
+<p> <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivektripaathi&theme=react-dark" /></p>
 -->
 
-<!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-tripathi-9005&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vivek-tripathi-9005&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&hide_border=true&) |
+<!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivektripaathi&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vivektripaathi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&hide_border=true&) |
 -->
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-tripathi-9005&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek-tripathi-9005&hide_border=true)  |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivektripaathi&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripaathi&hide_border=true)  |
 | --- | --- |
 
 <!-- 
-| ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivek-tripathi-9005&show_icons=true&hide_border=true) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek-tripathi-9005&hide_border=true) |
+| ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivektripaathi&show_icons=true&hide_border=true) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripaathi&hide_border=true) |
 -->
 
 <p align="center">

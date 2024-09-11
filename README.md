@@ -5,7 +5,7 @@
 <p align="center">
 <code><a href="mailto:vivektripathi8005@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="Mail"></a></code> &nbsp; &nbsp;
 <code><a href="https://www.linkedin.com/in/vivek-tripathi1" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a></code> &nbsp; &nbsp;
-<code><a href="https://vivek-tripathi-9005.github.io/home/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="Website"></a></code> &nbsp; &nbsp;
+<code><a href="https://vivektripaathi.github.io/home/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="Website"></a></code> &nbsp; &nbsp;
 </p>
 
 <p align="center">

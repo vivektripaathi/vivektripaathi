@@ -8,10 +8,6 @@
 <code><a href="https://vivektripaathi.github.io/home/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="Website"></a></code> &nbsp; &nbsp;
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+scalable+microservices;cccrafting-intuitive+user+interfaces;Always+learning+and+growing&center=true&width=380&height=45">
-</p>
-
 ### Glad to see you here! &nbsp;
 
 <img align="right" alt="GIF" src="https://github.com/vivek-tripathi-9005/vivek-tripathi-9005/blob/main/assets/coding.gif?raw=true" width="408" height="300" />

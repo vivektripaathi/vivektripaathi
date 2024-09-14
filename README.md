@@ -66,6 +66,8 @@
 | ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivektripaathi&show_icons=true&hide_border=true) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripaathi&hide_border=true) |
 -->
 
+<!-- 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dikshantrajput&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vivektripaathi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
+-->

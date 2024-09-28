@@ -51,7 +51,7 @@
 
 
 ### 📈**My GitHub Stats:**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivektripaathi" alt="vivek-tripathi-trophies"/></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=vivektripaathi"><img src="https://github-profile-trophy.vercel.app/?username=vivektripaathi" alt="vivek-tripathi-trophies"/></a> </p>
 <!--
 <p> <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivektripaathi&theme=react-dark" /></p>
 -->

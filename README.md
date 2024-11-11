@@ -50,7 +50,11 @@
 <code><img height="30" alt="markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 
+
 ### 📈**My GitHub Stats:**
+
+<a align="left" href="https://github-readme-activity-graph.vercel.app/graph?username=vivektripaathi&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vivektripaathi&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph"/></a>
+
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=vivektripaathi"><img src="https://github-profile-trophy.vercel.app/?username=vivektripaathi" alt="vivek-tripathi-trophies"/></a> </p>
 <!--
 <p> <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivektripaathi&theme=react-dark" /></p>

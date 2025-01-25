@@ -1,4 +1,4 @@
-# <samp> &gt; Hi there, I'm <a href="https://vivek-tripathi-9005.github.io/home/" target="_blank">Vivek Tripathi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# <samp> &gt; Hi there, I'm <a href="https://vivektripaathi.github.io" target="_blank">Vivek Tripathi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <h3 align="center">Full Stack Developer | Quick Learner</h3>
 

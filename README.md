@@ -18,7 +18,7 @@
 
 - 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’m currently learning and practising Web Development and Data Structures and Algorithm
-- 💬 Ask me about anything, I feel happy to help
+- 💬 Ask me about anything, I feel happy to help.
 - 📫 How to reach me: vivektripathi8005@gmail.com
 - Connect with me: https://www.linkedin.com/in/vivek-tripathi1/
   

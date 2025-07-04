@@ -52,18 +52,8 @@
 <code><img height="30" alt="markdown" src="https://www.ryantoken.com/blog-images/nuxt-3-vs-sveltekit/sveltekit-full-res.png"></code>
 
 
-
-### 📈**My GitHub Stats:**
-
 <a align="left" href="https://github-readme-activity-graph.vercel.app/graph?username=vivektripaathi&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vivektripaathi&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph"/></a>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=vivektripaathi"><img src="https://github-profile-trophy.vercel.app/?username=vivektripaathi" alt="vivek-tripathi-trophies"/></a> </p>
-<!--
-<p> <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=vivektripaathi&theme=react-dark" /></p>
--->
-
-<!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivektripaathi&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vivektripaathi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&hide_border=true&) |
--->
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivektripaathi&&show_icons=true&hide_border=true&layout=compact&langs_count=10) | ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivektripaathi&hide_border=true)  |
 | --- | --- |
